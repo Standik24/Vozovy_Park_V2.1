@@ -1,0 +1,3 @@
+Jméno:Standik
+Přijmení:Bendik
+ID rezervovaného auta:1
